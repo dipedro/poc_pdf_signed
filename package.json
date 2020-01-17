@@ -27,7 +27,8 @@
     "easy-pdf-merge": "^0.2.2",
     "hummus-recipe": "^1.9.2",
     "node-forge": "^0.9.1",
-    "node-signpdf": "^1.2.1"
+    "node-signpdf": "^1.2.1",
+    "set-value": "^3.0.1"
   },
   "devDependencies": {},
   "autoload": {
